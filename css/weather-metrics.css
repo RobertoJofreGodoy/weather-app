@@ -1,0 +1,8 @@
+.weatherMetrics {
+    color: var(--white);
+    padding-inline: 1rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+    padding-block-end: 1rem;
+}
